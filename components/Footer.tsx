@@ -1,6 +1,6 @@
 const Footer = () => {
     return (
-        <footer className=" mt-6 bg-white overflow-hidden text-sm">
+        <footer className=" mt-12 bg-white overflow-hidden text-sm">
             <div className="absolute left-0 bottom-0">
                 <img src="/left-rain.png" alt="" className=" h-28 md:h-60" />
             </div>
